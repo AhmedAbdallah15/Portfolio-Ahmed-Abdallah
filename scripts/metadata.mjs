@@ -10,13 +10,13 @@ if (supplied) {
   if (pathname !== base) throw new Error(`SITE_URL path ${pathname} must match BASE_PATH ${base}.`);
   const site = `${url.origin}${pathname}`;
   const escape = value => value.replaceAll('&','&amp;').replaceAll('"','&quot;').replaceAll('<','&lt;');
-  html = html.replace('content="/social-preview.jpg"', `content="${escape(site)}social-preview.jpg"`)
+  html = html.replace(/(<meta property="og:image" content=")[^"]*(")/, (_, before, after) => `${before}${escape(site)}social-preview.jpg${after}`)
     .replace('</head>', `<link rel="canonical" href="${escape(site)}" /><meta property="og:url" content="${escape(site)}" /></head>`);
   await writeFile('dist/sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>${escape(site)}</loc></url></urlset>`);
   await writeFile('dist/robots.txt', `User-agent: *\nAllow: /\nSitemap: ${site}sitemap.xml\n`);
   console.log(`Canonical, sitemap and social URL configured for ${site}.`);
 } else {
-  html = html.replace('content="/social-preview.jpg"', `content="${base}social-preview.jpg"`);
+  html = html.replace(/(<meta property="og:image" content=")[^"]*(")/, (_, before, after) => `${before}${base}social-preview.jpg${after}`);
   await writeFile('dist/robots.txt', 'User-agent: *\nAllow: /\n');
   console.log('No SITE_URL set: domain-dependent metadata deferred until deployment.');
 }
