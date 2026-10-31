@@ -1,0 +1,278 @@
+{
+  "al-noor-al-shefaa-2027": {
+    "width": 1748,
+    "height": 2480,
+    "src": "/images/al-noor-al-shefaa-2027-1440.webp",
+    "srcSet": "/images/al-noor-al-shefaa-2027-480.webp 480w, /images/al-noor-al-shefaa-2027-960.webp 960w, /images/al-noor-al-shefaa-2027-1440.webp 1440w"
+  },
+  "el-beheira-pedia-forum": {
+    "width": 1748,
+    "height": 2480,
+    "src": "/images/el-beheira-pedia-forum-1440.webp",
+    "srcSet": "/images/el-beheira-pedia-forum-480.webp 480w, /images/el-beheira-pedia-forum-960.webp 960w, /images/el-beheira-pedia-forum-1440.webp 1440w"
+  },
+  "p01-01": {
+    "width": 1122,
+    "height": 1402,
+    "src": "/images/p01-01-1122.webp",
+    "srcSet": "/images/p01-01-480.webp 480w, /images/p01-01-960.webp 960w, /images/p01-01-1122.webp 1122w"
+  },
+  "p01-02": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p01-02-1303.webp",
+    "srcSet": "/images/p01-02-480.webp 480w, /images/p01-02-960.webp 960w, /images/p01-02-1303.webp 1303w"
+  },
+  "p01-03": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p01-03-1303.webp",
+    "srcSet": "/images/p01-03-480.webp 480w, /images/p01-03-960.webp 960w, /images/p01-03-1303.webp 1303w"
+  },
+  "p02-01": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p02-01-1303.webp",
+    "srcSet": "/images/p02-01-480.webp 480w, /images/p02-01-960.webp 960w, /images/p02-01-1303.webp 1303w"
+  },
+  "p04-01": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p04-01-1303.webp",
+    "srcSet": "/images/p04-01-480.webp 480w, /images/p04-01-960.webp 960w, /images/p04-01-1303.webp 1303w"
+  },
+  "p04-03": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p04-03-1303.webp",
+    "srcSet": "/images/p04-03-480.webp 480w, /images/p04-03-960.webp 960w, /images/p04-03-1303.webp 1303w"
+  },
+  "p04-04": {
+    "width": 1307,
+    "height": 1850,
+    "src": "/images/p04-04-1307.webp",
+    "srcSet": "/images/p04-04-480.webp 480w, /images/p04-04-960.webp 960w, /images/p04-04-1307.webp 1307w"
+  },
+  "p04-05": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p04-05-1303.webp",
+    "srcSet": "/images/p04-05-480.webp 480w, /images/p04-05-960.webp 960w, /images/p04-05-1303.webp 1303w"
+  },
+  "p04-06": {
+    "width": 1307,
+    "height": 1850,
+    "src": "/images/p04-06-1307.webp",
+    "srcSet": "/images/p04-06-480.webp 480w, /images/p04-06-960.webp 960w, /images/p04-06-1307.webp 1307w"
+  },
+  "p04-07": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p04-07-1303.webp",
+    "srcSet": "/images/p04-07-480.webp 480w, /images/p04-07-960.webp 960w, /images/p04-07-1303.webp 1303w"
+  },
+  "p07-01": {
+    "width": 925,
+    "height": 1850,
+    "src": "/images/p07-01-925.webp",
+    "srcSet": "/images/p07-01-480.webp 480w, /images/p07-01-925.webp 925w"
+  },
+  "p07-02": {
+    "width": 767,
+    "height": 1850,
+    "src": "/images/p07-02-767.webp",
+    "srcSet": "/images/p07-02-480.webp 480w, /images/p07-02-767.webp 767w"
+  },
+  "p08-01": {
+    "width": 1850,
+    "height": 1850,
+    "src": "/images/p08-01-1440.webp",
+    "srcSet": "/images/p08-01-480.webp 480w, /images/p08-01-960.webp 960w, /images/p08-01-1440.webp 1440w"
+  },
+  "p08-02": {
+    "width": 1850,
+    "height": 1041,
+    "src": "/images/p08-02-1440.webp",
+    "srcSet": "/images/p08-02-480.webp 480w, /images/p08-02-960.webp 960w, /images/p08-02-1440.webp 1440w"
+  },
+  "p09-01": {
+    "width": 1000,
+    "height": 1000,
+    "src": "/images/p09-01-1000.webp",
+    "srcSet": "/images/p09-01-480.webp 480w, /images/p09-01-960.webp 960w, /images/p09-01-1000.webp 1000w"
+  },
+  "p09-02": {
+    "width": 1000,
+    "height": 1000,
+    "src": "/images/p09-02-1000.webp",
+    "srcSet": "/images/p09-02-480.webp 480w, /images/p09-02-960.webp 960w, /images/p09-02-1000.webp 1000w"
+  },
+  "p10-01": {
+    "width": 1850,
+    "height": 925,
+    "src": "/images/p10-01-1440.webp",
+    "srcSet": "/images/p10-01-480.webp 480w, /images/p10-01-960.webp 960w, /images/p10-01-1440.webp 1440w"
+  },
+  "p10-02": {
+    "width": 1850,
+    "height": 925,
+    "src": "/images/p10-02-1440.webp",
+    "srcSet": "/images/p10-02-480.webp 480w, /images/p10-02-960.webp 960w, /images/p10-02-1440.webp 1440w"
+  },
+  "p12-01": {
+    "width": 767,
+    "height": 1850,
+    "src": "/images/p12-01-767.webp",
+    "srcSet": "/images/p12-01-480.webp 480w, /images/p12-01-767.webp 767w"
+  },
+  "p12-02": {
+    "width": 767,
+    "height": 1850,
+    "src": "/images/p12-02-767.webp",
+    "srcSet": "/images/p12-02-480.webp 480w, /images/p12-02-767.webp 767w"
+  },
+  "p13-01": {
+    "width": 1850,
+    "height": 1850,
+    "src": "/images/p13-01-1440.webp",
+    "srcSet": "/images/p13-01-480.webp 480w, /images/p13-01-960.webp 960w, /images/p13-01-1440.webp 1440w"
+  },
+  "p13-02": {
+    "width": 1850,
+    "height": 1303,
+    "src": "/images/p13-02-1440.webp",
+    "srcSet": "/images/p13-02-480.webp 480w, /images/p13-02-960.webp 960w, /images/p13-02-1440.webp 1440w"
+  },
+  "p14-01": {
+    "width": 1063,
+    "height": 709,
+    "src": "/images/p14-01-1063.webp",
+    "srcSet": "/images/p14-01-480.webp 480w, /images/p14-01-960.webp 960w, /images/p14-01-1063.webp 1063w"
+  },
+  "p14-02": {
+    "width": 1063,
+    "height": 709,
+    "src": "/images/p14-02-1063.webp",
+    "srcSet": "/images/p14-02-480.webp 480w, /images/p14-02-960.webp 960w, /images/p14-02-1063.webp 1063w"
+  },
+  "p14-03": {
+    "width": 1063,
+    "height": 709,
+    "src": "/images/p14-03-1063.webp",
+    "srcSet": "/images/p14-03-480.webp 480w, /images/p14-03-960.webp 960w, /images/p14-03-1063.webp 1063w"
+  },
+  "p15-01": {
+    "width": 1122,
+    "height": 1358,
+    "src": "/images/p15-01-1122.webp",
+    "srcSet": "/images/p15-01-480.webp 480w, /images/p15-01-960.webp 960w, /images/p15-01-1122.webp 1122w"
+  },
+  "p16-01": {
+    "width": 1254,
+    "height": 1254,
+    "src": "/images/p16-01-1254.webp",
+    "srcSet": "/images/p16-01-480.webp 480w, /images/p16-01-960.webp 960w, /images/p16-01-1254.webp 1254w"
+  },
+  "p16-02": {
+    "width": 1254,
+    "height": 1254,
+    "src": "/images/p16-02-1254.webp",
+    "srcSet": "/images/p16-02-480.webp 480w, /images/p16-02-960.webp 960w, /images/p16-02-1254.webp 1254w"
+  },
+  "p17-01": {
+    "width": 1254,
+    "height": 1254,
+    "src": "/images/p17-01-1254.webp",
+    "srcSet": "/images/p17-01-480.webp 480w, /images/p17-01-960.webp 960w, /images/p17-01-1254.webp 1254w"
+  },
+  "p21-01": {
+    "width": 767,
+    "height": 1850,
+    "src": "/images/p21-01-767.webp",
+    "srcSet": "/images/p21-01-480.webp 480w, /images/p21-01-767.webp 767w"
+  },
+  "p22-01": {
+    "width": 1850,
+    "height": 1307,
+    "src": "/images/p22-01-1440.webp",
+    "srcSet": "/images/p22-01-480.webp 480w, /images/p22-01-960.webp 960w, /images/p22-01-1440.webp 1440w"
+  },
+  "p22-02": {
+    "width": 1484,
+    "height": 1060,
+    "src": "/images/p22-02-1440.webp",
+    "srcSet": "/images/p22-02-480.webp 480w, /images/p22-02-960.webp 960w, /images/p22-02-1440.webp 1440w"
+  },
+  "p23-01": {
+    "width": 1063,
+    "height": 709,
+    "src": "/images/p23-01-1063.webp",
+    "srcSet": "/images/p23-01-480.webp 480w, /images/p23-01-960.webp 960w, /images/p23-01-1063.webp 1063w"
+  },
+  "p23-02": {
+    "width": 1122,
+    "height": 1358,
+    "src": "/images/p23-02-1122.webp",
+    "srcSet": "/images/p23-02-480.webp 480w, /images/p23-02-960.webp 960w, /images/p23-02-1122.webp 1122w"
+  },
+  "p24-01": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/images/p24-01-1024.webp",
+    "srcSet": "/images/p24-01-480.webp 480w, /images/p24-01-960.webp 960w, /images/p24-01-1024.webp 1024w"
+  },
+  "p24-02": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/images/p24-02-1024.webp",
+    "srcSet": "/images/p24-02-480.webp 480w, /images/p24-02-960.webp 960w, /images/p24-02-1024.webp 1024w"
+  },
+  "p25-01": {
+    "width": 1024,
+    "height": 1024,
+    "src": "/images/p25-01-1024.webp",
+    "srcSet": "/images/p25-01-480.webp 480w, /images/p25-01-960.webp 960w, /images/p25-01-1024.webp 1024w"
+  },
+  "p25-02": {
+    "width": 1254,
+    "height": 1254,
+    "src": "/images/p25-02-1254.webp",
+    "srcSet": "/images/p25-02-480.webp 480w, /images/p25-02-960.webp 960w, /images/p25-02-1254.webp 1254w"
+  },
+  "p26-01": {
+    "width": 1303,
+    "height": 1850,
+    "src": "/images/p26-01-1303.webp",
+    "srcSet": "/images/p26-01-480.webp 480w, /images/p26-01-960.webp 960w, /images/p26-01-1303.webp 1303w"
+  },
+  "p28-01": {
+    "width": 1080,
+    "height": 1080,
+    "src": "/images/p28-01-1080.webp",
+    "srcSet": "/images/p28-01-480.webp 480w, /images/p28-01-960.webp 960w, /images/p28-01-1080.webp 1080w"
+  },
+  "p28-02": {
+    "width": 1080,
+    "height": 1080,
+    "src": "/images/p28-02-1080.webp",
+    "srcSet": "/images/p28-02-480.webp 480w, /images/p28-02-960.webp 960w, /images/p28-02-1080.webp 1080w"
+  },
+  "p35-01": {
+    "width": 768,
+    "height": 1086,
+    "src": "/images/p35-01-768.webp",
+    "srcSet": "/images/p35-01-480.webp 480w, /images/p35-01-768.webp 768w"
+  },
+  "p36-01": {
+    "width": 768,
+    "height": 1086,
+    "src": "/images/p36-01-768.webp",
+    "srcSet": "/images/p36-01-480.webp 480w, /images/p36-01-768.webp 768w"
+  },
+  "pedo-alex-2027": {
+    "width": 1748,
+    "height": 2481,
+    "src": "/images/pedo-alex-2027-1440.webp",
+    "srcSet": "/images/pedo-alex-2027-480.webp 480w, /images/pedo-alex-2027-960.webp 960w, /images/pedo-alex-2027-1440.webp 1440w"
+  }
+}

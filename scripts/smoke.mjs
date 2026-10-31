@@ -1,0 +1,13 @@
+import { chromium } from 'playwright';
+import { mkdir } from 'node:fs/promises';
+await mkdir('qa/screenshots',{recursive:true});
+const browser=await chromium.launch({executablePath:'C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe',headless:true});
+const page=await browser.newPage({viewport:{width:1440,height:1000}});
+const errors=[];page.on('pageerror',e=>errors.push(e.message));
+await page.goto('http://127.0.0.1:5173/',{waitUntil:'networkidle'});
+await page.screenshot({path:'qa/screenshots/home-desktop.png',fullPage:true});
+console.log({title:await page.title(),cards:await page.locator('.project-card').count(),overflow:await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth),errors});
+await page.setViewportSize({width:375,height:812});await page.screenshot({path:'qa/screenshots/home-mobile.png',fullPage:true});
+await page.getByRole('button',{name:'Open navigation'}).click();console.log('Mobile nav visible',await page.getByRole('navigation').isVisible());await page.keyboard.press('Escape');
+console.log('Mobile overflow',await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth));
+await browser.close();
